@@ -33,3 +33,8 @@ Behavioral Flags: Specific TTPs like "Geo-velocity anomaly" or "Token persistenc
 Confirm & Enrich: Users can verify existing reports.
 
 Smart Scoring: Multiple reports from different sources automatically increase the Confidence Score and update the Last Seen timestamp.
+
+#Workflow
+
+![GhostWorkerDatabase black hat](https://github.com/user-attachments/assets/8a52f63a-3e8e-4317-9c76-a4fddea49769)
+
